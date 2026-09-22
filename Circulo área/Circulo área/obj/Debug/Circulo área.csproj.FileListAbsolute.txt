@@ -1,0 +1,14 @@
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\bin\Debug\Circulo área.exe.config
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\bin\Debug\Circulo área.exe
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\bin\Debug\Circulo área.pdb
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo área.csproj.AssemblyReference.cache
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo_área.Form1.resources
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo_área.Properties.Resources.resources
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo área.csproj.GenerateResource.cache
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo área.csproj.CoreCompileInputs.cache
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo área.exe
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo área.pdb
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\bin\Debug\Circulo área.exe.manifest
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\bin\Debug\Circulo área.application
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo área.exe.manifest
+C:\Users\Chuym\source\repos\Circulo área\Circulo área\obj\Debug\Circulo área.application
